@@ -2,6 +2,11 @@
 Example of how to build a custom terraform provider
 
 
+**Prerequisite**
+* make
+* go
+* terraform
+
 **How to install:** 
 
 To build and install simply run `make`
