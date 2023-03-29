@@ -1,7 +1,7 @@
 terraform {
 	required_providers {
 		filecrud = {
-			source = "emirates.com/golang/filecrud"
+			source = "tlopo/golang/filecrud"
 			version = "0.1"
 		}
 	}

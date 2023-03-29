@@ -1,7 +1,7 @@
 package main
 
 import (
-	"foo/filecrud"
+	"tf/filecrud"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 )

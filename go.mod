@@ -1,4 +1,4 @@
-module foo
+module tf
 
 go 1.16
 
