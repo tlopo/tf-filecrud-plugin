@@ -1,3 +1,5 @@
 *~
 .terraform*
 terraform.tfstate*
+dist/*
+go.sum
